@@ -15,6 +15,7 @@ import java.util.ArrayList;
 /**
  *
  * @author theodoulosc
+ * This is a DAO Class
  */
 public class AdminDAO {
     
