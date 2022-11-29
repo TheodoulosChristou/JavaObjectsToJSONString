@@ -13,6 +13,7 @@ import java.sql.SQLException;
 /**
  *
  * @author theodoulosc
+ * This is a class where Application connects to MySQLDB
  */
 public class DBConnection {
     
