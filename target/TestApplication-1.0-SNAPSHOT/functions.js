@@ -40,16 +40,6 @@ function buildTable() {
                      tri.append(td_lastName);
 
                      table.append(tri);
-
-
-                    //var row = `<tr>
-                                    //<td>${s[i].id}</td>
-                                    //<td>${s[i].username}</td>
-                                    //<td>${s[i].password}</td>
-                                    //<td>${s[i].firstName}</td>
-                                    //<td>${s[i].lastName}</td>
-                                //</tr>`;
-                    //table.innerHTML = table.innerHTML + row;
 		}
         }
     });

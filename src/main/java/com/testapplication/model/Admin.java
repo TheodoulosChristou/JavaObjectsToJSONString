@@ -63,7 +63,4 @@ public class Admin {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-    
-    
-    
 }
